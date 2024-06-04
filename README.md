@@ -1,7 +1,7 @@
 <h1>TUGAS KEAMANAN PERANGKAT LUNAK</h1>
 
-<div>
-    <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" alt="Lucu GIF">
+<div align="center">
+    <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" alt="Lucu GIF">
 </div>
 
 ## Anggota Kelompok
