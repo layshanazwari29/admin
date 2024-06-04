@@ -1,4 +1,4 @@
-<h1>TUGAS KEAMANAN PERANGKAT LUNAK</h1>
+<h1 align="center">TUGAS KEAMANAN PERANGKAT LUNAK</h1>
 
 <div align="center">
     <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" alt="Lucu GIF">
