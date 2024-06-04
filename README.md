@@ -7,7 +7,7 @@
 ## Anggota Kelompok
 
 1. Laysha Nazwari Iklies Putri (2205045)
-2. Fitiyani ()
+2. Fitiyani (2205041)
 
 ## Teknologi yang di pake
 
